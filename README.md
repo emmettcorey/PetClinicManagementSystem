@@ -16,4 +16,4 @@ File Management: Save and load clinic data using text files.
 Object-Oriented Principles Demonstrated:
 Encapsulation:Pet attributes are protected through controlled access
 Inheritance: Cat and Dog subclasses inherit shared fields and methods from the Pet superclass
-Polymorphism:ArrayList stores diffetent pet types and methods, the program automatically runs the correct subclass version.
+Polymorphism:ArrayList stores different pet types and methods, the program automatically runs the correct subclass version.
